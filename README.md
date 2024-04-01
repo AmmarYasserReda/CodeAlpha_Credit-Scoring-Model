@@ -14,18 +14,7 @@ Logistic Regression
 Random Forest
 XGBoost
 K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
 Dataset
-The dataset used for this project contains the following columns:
 
-SeriousDlqin2yrs
-RevolvingUtilizationOfUnsecuredLines
-age
-DebtRatio
-MonthlyIncome
-NumberOfOpenCreditLinesAndLoans
-NumberRealEstateLoansOrLines
-NumberOfDependents
-TotalPastDue
 Model Evaluation
 Model performance was evaluated using accuracy, precision, recall, F1-score, and ROC-AUC metrics.
